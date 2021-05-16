@@ -1,0 +1,21 @@
+.navWrapper {
+  display: flex;
+  list-style: none;
+  li {
+    border-radius: 20px;
+    border: 2px solid black;
+    padding: 1em;
+    margin: 1em;
+  }
+}
+.activeLink {
+  color: red;
+}
+.header {
+  display: flex;
+  place-items: center;
+  justify-content: space-between;
+  h1 {
+    margin: 1em;
+  }
+}

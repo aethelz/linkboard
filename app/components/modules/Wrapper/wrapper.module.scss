@@ -1,0 +1,9 @@
+.mainWrapper {
+  max-width: 60rem;
+  margin: auto;
+  min-height: 100vh;
+}
+.thrasherPreventer {
+  // Prevent layout trashing on scrollbar appearance
+  width: 100vw;
+}

@@ -4,6 +4,12 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  /*
+  This will remove the horizontal scrollbar
+  (created when vertical scrollbar appears, to allow the user to "look under" it).
+  */
+  overflow-x: hidden;
+
 }
 
 a {

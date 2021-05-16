@@ -1,0 +1,16 @@
+.navWrapper {
+  display: flex;
+  list-style: none;
+  li {
+    padding: 0 1em;
+    margin: 0 1em;
+  }
+}
+.footer {
+  display: flex;
+  place-items: center;
+  justify-content: space-between;
+  div {
+    margin: 1em;
+  }
+}
