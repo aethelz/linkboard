@@ -11,7 +11,8 @@
       "@constant/*": ["constants/*"],
       "@context/*": ["context/*"],
       "@hook/*": ["hooks/*"],
-      "@util/*": ["utils/*"]
+      "@util/*": ["utils/*"],
+      "@shared/*": ["shared/*"]
     },
     "plugins": [{ "name": "typescript-plugin-css-modules" }],
     "allowJs": true,

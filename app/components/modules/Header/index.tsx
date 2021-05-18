@@ -6,7 +6,7 @@ import Head from 'next/head';
 import { useRouter } from 'next/router';
 
 const boards = [
-  ['First Board', '/'],
+  ['First Board', '/first'],
   ['Second Board', '/second'],
   ['Third Board', '/third'],
 ];
